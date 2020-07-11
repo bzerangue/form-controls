@@ -1,5 +1,5 @@
 # Form Controls
-An XSLT utility to create powerful HTML forms with [Symphony](http://symphony-cms.com)
+An XSLT utility to create powerful HTML forms with [Symphony](https://getsymphony.com)
 
 ## What is it?
 Form Controls is a suite of XSL templates for rapidly building forms that are tightly coupled with Symphony Events. The core aim is to make forms easier to build so that the developer can spend less time on validation and checking posted data, and more time on adding the extra layer of polish that make forms more usable.
@@ -18,7 +18,7 @@ Form Controls (`form-controls.xsl`) is a single XSLT file and can be downloaded 
 <http://github.com/nickdunn/form-controls/tree/master>
 
 ## Installing the utility
-Add the `form-controls.xsl` file to your `/workspace/utilities` folder alongside the [other cool XSLT utilities](http://symphony21.com/downloads/xslt/) you know and love.
+Add the `form-controls.xsl` file to your `/workspace/utilities` folder alongside the [other cool XSLT utilities](https://www.getsymphony.com/download/xslt-utilities/) you know and love.
 
 On the page in which you are building the form, import the XSL file:
 
